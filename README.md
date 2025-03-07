@@ -1,13 +1,37 @@
-# LOJA-DG-STORE
-# Descrição
-Site da minha loja online, mostrando algumas roupas em destaques, a camisa fio 40.1 que é o tipo de algodão, camisa streetwear e também o short  dryfit, o intuito do site é se vc se interessar clica na imagem e vai saber o valor  de cada uma delas.
-# Foi utilizado
-HTML e CSS 
-# Estrutura do Site
-Página inicial: Nome da loja e slogan, coloquei uma frase, é  um cupom de frete grátis grátis na primeira compra.
-Estar tambem algumas roupas em destaque.
-# Funcionamento
-Dar um click em cada imagem que estar destacada e vai apresentar valor e nome da camisa e também do short.
-Sobre o projeto.
-# Considerações
-Fiz esse meu projeto no intuito de ir se aperfeiçoando com ele, e com benefícios próprio que é a minha loja online.
+Loja DG STORE
+
+Bem-vindo à Loja DG STORE, sua loja online de roupas masculinas que oferece elegância, autoridade e estilo.
+
+Visão Geral
+
+Este projeto consiste em uma loja online simples, construída com HTML e CSS, que apresenta uma variedade de roupas masculinas. Os visitantes podem navegar pelas páginas de produtos e aproveitar um cupom de frete grátis na primeira compra.
+
+Funcionalidades
+
+* **Página inicial:** Apresenta o logo da loja, uma breve descrição e um cupom de frete grátis.
+* **Páginas de produtos:** Exibem imagens e descrições dos produtos em destaque.
+* **Navegação:** Links para as páginas de produtos individuais.
+
+Como Usar
+
+1. Clone o repositório para o seu computador.
+2. Abra o arquivo `index.html` em seu navegador.
+3. Navegue pelas páginas de produtos clicando nos links.
+
+Páginas de Produtos
+
+* [Camisa 40.1](camisa40.1.html)
+* [Camisa Streetwear](camisastreetwear.html)
+* [Short Dryfit](shortdryfit.html)
+
+Tecnologias Utilizadas
+
+* HTML
+* CSS
+
+Autores
+
+* Diego Lins Dos Santos 
+* ⁠Jardiel de Oliveira Silva 
+* ⁠E-mail: diegoserrafree@gmail.com
+⁠ jardielvascainogba@gmail.com
