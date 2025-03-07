@@ -6,7 +6,7 @@ HTML e CSS
 # Estrutura do Site
 Página inicial: Nome da loja e slogan, coloquei uma frase, é  um cupom de frete grátis grátis na primeira compra.
 Estar tambem algumas roupas em destaque.
-# Funcionamento:
+# Funcionamento
 Dar um click em cada imagem que estar destacada e vai apresentar valor e nome da camisa e também do short.
 Sobre o projeto.
 # Considerações
